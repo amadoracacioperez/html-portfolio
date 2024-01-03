@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+h2{
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.entradas-entrenamientos{
+    width: 100px;
+    font-size: small;
+    text-align: center;
+}
+
+.fechas-entrenamientos{
+    width: 110px;
+    border: 1px solid aliceblue;
+    font-size: small;
+    text-align: center;
+}
+#Marathon-training{
+    text-align: center;
+    font-size: 2rem;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.imagen1{
+    margin-top: 30px;
+    width: 50%;
+    height: 50%;
+    border: 3px solid aliceblue;
+
+    
+}
+#poster1{
+    margin-left: 33%;
+    margin: 100px;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#audio1{
+    margin-top: 500px;
+}
+
