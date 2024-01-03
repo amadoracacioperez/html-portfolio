@@ -1,0 +1,38 @@
+body{
+    background-color: #000000;
+}
+
+h1{
+    color: #16FF00;
+}
+
+h2{
+    color: #16FF00;
+}
+
+#Kobe_Bryant{
+    border: 2px solid #16FF00; 
+    width: 40%;
+    height: 40%;
+}
+
+#Name_Photo{
+    text-align: center;
+}
+
+#footpage{
+    margin-top: 3%;
+    padding: 2%;
+    background-color: #16FF00;
+    color: #000000;
+}
+
+#index{
+    border: 1px solid black;
+    width: 200px;
+    margin-left: 33%;
+    color: #16FF00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-position:inside;
+    text-align: left;
+}
