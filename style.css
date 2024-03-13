@@ -40,3 +40,17 @@ h2{
 #MyH2{
     color: #16FF00;
 }
+
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: #1100ff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color: #16ff00;
+}
