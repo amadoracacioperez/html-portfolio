@@ -18,7 +18,7 @@ submitBtn.onclick = function(){
     else if(age > 24 && age < 90){
         answer.textContent = `You are too old for this site`
     }
-    else if(age > 90){
+    else if(age >= 90){
         answer.textContent = `Be careful! You can suffer a heart attack.`
     }
     else{
