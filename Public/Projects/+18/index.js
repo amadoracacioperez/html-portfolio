@@ -13,7 +13,7 @@ submitBtn.onclick = function(){
         answer.textContent = `You are not older enough to see this content. Try next year`
     }
     else if(age == 24){
-        answer.textContent = `You have the perfect age for this site`
+        answer.textContent = `You are the perfect age for this site`
     }
     else if(age > 24 && age < 90){
         answer.textContent = `You are too old for this site`
