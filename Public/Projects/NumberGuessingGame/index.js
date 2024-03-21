@@ -13,7 +13,7 @@ while(running){
     guess = Number(guess);
 
     if(isNaN(guess)){
-        window.alert(`Please enter a valid number:`);
+        window.alert(`Please enter a valid number1:`);
     }
 
     else if(guess < min || guess > max){
