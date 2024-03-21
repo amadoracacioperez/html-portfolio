@@ -17,7 +17,7 @@ while(running){
     }
 
     else if(guess < min || guess > max){
-        window.alert(`Please enter a valid number:`);
+        window.alert(`Please enter a valid number2:`);
     }
 
     else{
