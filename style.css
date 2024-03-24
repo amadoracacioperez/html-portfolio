@@ -10,6 +10,11 @@ h2{
     color: #16FF00;
 }
 
+p{
+    color: #16FF00;
+
+}
+
 #Kobe_Bryant{
     border: 2px solid #16FF00; 
     width: 40%;
@@ -42,6 +47,7 @@ h2{
 }
 
 .buttons{
+    text-align: center;
     padding: 10px 20px;
     font-size: 1.5em;
     color: white;
