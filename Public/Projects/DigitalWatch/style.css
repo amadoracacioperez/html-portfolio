@@ -1,0 +1,26 @@
+body{
+    background-image: url(/html-portfolio/Images/Irlanda.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /*cubre toda la ventana*/
+    background-attachment: fixed; /*si tienes un scroll, la imagen se mantiene en el lugar*/
+    margin: 0;
+}
+
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#clock{
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    backdrop-filter: blur(2px);
+    background-color: hsl(0, 0%, 100%, 0.1);
+    width: 100%;
+}
